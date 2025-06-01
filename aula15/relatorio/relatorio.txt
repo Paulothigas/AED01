@@ -1,0 +1,61 @@
+
+
+Arquivo: arquivo_1.txt
+
+Média: 58.75
+
+Mediana 61.0
+
+Desvio 28.38805345470817
+
+Valor Máximo 99
+
+Valor Minimo 8
+
+Arquivo: arquivo_2.txt
+
+Média: 52.95
+
+Mediana 52.0
+
+Desvio 23.52484688691154
+
+Valor Máximo 100
+
+Valor Minimo 7
+
+Arquivo: arquivo_3.txt
+
+Média: 40.25
+
+Mediana 37.0
+
+Desvio 28.89340664180015
+
+Valor Máximo 85
+
+Valor Minimo 2
+
+Arquivo: arquivo_4.txt
+
+Média: 42.9
+
+Mediana 39.5
+
+Desvio 29.527685492200632
+
+Valor Máximo 100
+
+Valor Minimo 1
+
+Arquivo: arquivo_5.txt
+
+Média: 45.7
+
+Mediana 47.5
+
+Desvio 28.327223283395927
+
+Valor Máximo 94
+
+Valor Minimo 2
